@@ -1,0 +1,22 @@
+{
+  "name": "testoperaciones",
+  "version": "1.0.0",
+  "description": "Proyecto test de operaciones matematicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroHincapie/testOperaciones.git"
+  },
+  "author": "Pedro Hincapie Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroHincapie/testOperaciones/issues"
+  },
+  "homepage": "https://github.com/PedroHincapie/testOperaciones#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
